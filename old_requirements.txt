@@ -1,0 +1,17 @@
+streamlit
+# easyocr   ← comment this for now
+pillow
+numpy
+google-generativeai
+gtts
+SpeechRecognition
+langdetect
+flask
+pyjwt
+bcrypt
+python-dotenv
+pytest
+requests
+selenium
+webdriver-manager
+gunicorn
